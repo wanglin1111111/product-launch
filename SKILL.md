@@ -1,4 +1,4 @@
----
+﻿---
 name: product-launch
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: product-hunt-launch-guide
 
 ---
-name: product-hunt-launch-guide
+name: product-launch
 description: |
   The complete first-timer's guide to launching on Product Hunt. Covers timing, hunter selection, asset prep, launch-day engagement, and post-launch follow-up.
 ---
